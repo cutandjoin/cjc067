@@ -1,6 +1,6 @@
 CJM sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
 DIRINDEX 1\5,1\2\7,1\2\8,1\3\9,1\3\10,1\4\11,1\4\12,1\6\13,1\6\14
-DIRNAME cjc067,folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08,folder09,folder10,folder11,folder12,folder13
+DIRNAME folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08,folder09,folder10,folder11,folder12,folder13,folder14
 
 #
 Disk1Track01.mp3
